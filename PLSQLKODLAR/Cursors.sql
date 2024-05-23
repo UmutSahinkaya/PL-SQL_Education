@@ -1,0 +1,1 @@
+--CURSORS  - Implicit Cursors - SQL%FOUND, SQL%NOTFOUND, SQL%ROWCOUND
